@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f8690056-e1ef-4ae8-a133-80b642b8a279)# PR-LB-8-Hurzidze-Anton
 ## Хурцидзе Антон IПЗ 3.02 Практична-Лабораторна робота № 8
 
 ## Тема: Неперервна інтеграція
